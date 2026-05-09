@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "aviationweather.gov/api/data/metar",
   "station": "KDVT",
-  "fetched_at_utc": "2026-05-09T16:55:54Z",
+  "fetched_at_utc": "2026-05-09T17:52:30Z",
   "observed_at_utc": "2026-05-09T16:53:00Z",
   "temperature_c": 30.6,
   "dewpoint_c": -0.6,
