@@ -1,12 +1,12 @@
 # Latest Weather Summary
 
 - Station: KDVT
-- Observed at: 2026-06-18T03:53:00Z
-- Generated at: 2026-06-18T04:01:28Z
-- Temp: 96.1F (35.6C), change since last: -9.9F
-- Wind: 7kt from 10deg
+- Observed at: 2026-06-18T08:53:00Z
+- Generated at: 2026-06-18T09:13:29Z
+- Temp: 84.9F (29.4C), change since last: -11.2F
+- Wind: 5kt from 130deg
 - Visibility: 10.0 mi
-- Altimeter: 29.74 inHg
+- Altimeter: 29.79 inHg
 
 ## Notable Events
 - Flight category is VFR.
