@@ -1,10 +1,10 @@
 # Latest Weather Summary
 
 - Station: KDVT
-- Observed at: 2026-08-13T08:53:00Z
-- Generated at: 2026-08-13T10:05:21Z
-- Temp: 77.0F (25.0C), change since last: +0.0F
-- Wind: 3kt from 230deg
+- Observed at: 2026-08-13T10:53:00Z
+- Generated at: 2026-08-13T11:45:56Z
+- Temp: 75.9F (24.4C), change since last: -1.1F
+- Wind: 3kt from 150deg
 - Visibility: 10.0 mi
 - Altimeter: 29.89 inHg
 
