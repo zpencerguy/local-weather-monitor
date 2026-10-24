@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-10-24T22:55:18Z",
+  "observed_at_utc": "2026-10-24T21:53:00Z",
+  "temperature_c": 20.6,
+  "dewpoint_c": 10.6,
+  "wind_speed_kt": 9,
+  "wind_direction_deg": 350,
+  "visibility_mi": 10.0,
+  "altimeter_in_hg": 29.93,
+  "flight_category": "VFR",
+  "raw_metar": "METAR KDVT 242153Z 35009KT 10SM SCT085 21/11 A2993 RMK AO2 LTG DSNT N AND NW RAE12 SLP121 P0000 T02060106"
+}
