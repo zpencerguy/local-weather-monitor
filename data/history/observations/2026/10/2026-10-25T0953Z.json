@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-10-25T10:51:16Z",
+  "observed_at_utc": "2026-10-25T09:53:00Z",
+  "temperature_c": 15.0,
+  "dewpoint_c": 7.8,
+  "wind_speed_kt": 0,
+  "wind_direction_deg": 0,
+  "visibility_mi": 10.0,
+  "altimeter_in_hg": 30.01,
+  "flight_category": "VFR",
+  "raw_metar": "METAR KDVT 250953Z AUTO 00000KT 10SM CLR 15/08 A3001 RMK AO2 SLP147 T01500078"
+}
