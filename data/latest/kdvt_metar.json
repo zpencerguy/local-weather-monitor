@@ -2,14 +2,14 @@
   "schema_version": 1,
   "source": "aviationweather.gov/api/data/metar",
   "station": "KDVT",
-  "fetched_at_utc": "2026-10-30T01:35:45Z",
-  "observed_at_utc": "2026-10-30T00:53:00Z",
-  "temperature_c": 23.9,
-  "dewpoint_c": 9.4,
-  "wind_speed_kt": 5,
-  "wind_direction_deg": 340,
+  "fetched_at_utc": "2026-10-30T08:08:27Z",
+  "observed_at_utc": "2026-10-30T07:53:00Z",
+  "temperature_c": 21.1,
+  "dewpoint_c": 10.6,
+  "wind_speed_kt": 0,
+  "wind_direction_deg": 0,
   "visibility_mi": 10.0,
-  "altimeter_in_hg": 29.86,
+  "altimeter_in_hg": 29.89,
   "flight_category": "VFR",
-  "raw_metar": "METAR KDVT 300053Z COR 340005KT 10SM CLR 24/09 A2986 RMK AO2 SLP094 T02390094"
+  "raw_metar": "METAR KDVT 300753Z AUTO 00000KT 10SM OVC060 21/11 A2989 RMK AO2 SLP102 T02110106"
 }
