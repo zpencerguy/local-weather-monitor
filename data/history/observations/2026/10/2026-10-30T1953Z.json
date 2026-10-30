@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-10-30T20:26:58Z",
+  "observed_at_utc": "2026-10-30T19:53:00Z",
+  "temperature_c": 22.2,
+  "dewpoint_c": 15.6,
+  "wind_speed_kt": 6,
+  "wind_direction_deg": 100,
+  "visibility_mi": 10.0,
+  "altimeter_in_hg": 29.89,
+  "flight_category": "VFR",
+  "raw_metar": "METAR KDVT 301953Z 10006KT 10SM FEW060 22/16 A2989 RMK AO2 SLP103 T02220156"
+}
