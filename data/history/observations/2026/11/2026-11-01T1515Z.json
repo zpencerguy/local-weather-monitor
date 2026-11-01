@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-11-01T15:48:42Z",
+  "observed_at_utc": "2026-11-01T15:15:00Z",
+  "temperature_c": 17.2,
+  "dewpoint_c": 16.7,
+  "wind_speed_kt": 3,
+  "wind_direction_deg": 340,
+  "visibility_mi": 10.0,
+  "altimeter_in_hg": 29.86,
+  "flight_category": "MVFR",
+  "raw_metar": "SPECI KDVT 011515Z AUTO 34003KT 10SM -RA FEW005 BKN026 OVC045 17/17 A2986 RMK AO2 P0000 T01720167"
+}
