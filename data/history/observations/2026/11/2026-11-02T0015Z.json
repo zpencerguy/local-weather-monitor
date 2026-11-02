@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-11-02T00:18:45Z",
+  "observed_at_utc": "2026-11-02T00:15:00Z",
+  "temperature_c": 19.4,
+  "dewpoint_c": 16.7,
+  "wind_speed_kt": 6,
+  "wind_direction_deg": 180,
+  "visibility_mi": 2.0,
+  "altimeter_in_hg": 29.79,
+  "flight_category": "IFR",
+  "raw_metar": "SPECI KDVT 020015Z 18006KT 2SM RA OVC037 19/17 A2979 RMK AO2 VIS 1V5 P0004 T01940167"
+}
