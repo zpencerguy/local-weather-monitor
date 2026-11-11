@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-11-11T01:02:06Z",
+  "observed_at_utc": "2026-11-11T00:53:00Z",
+  "temperature_c": 23.9,
+  "dewpoint_c": 7.2,
+  "wind_speed_kt": 4,
+  "wind_direction_deg": 270,
+  "visibility_mi": 10.0,
+  "altimeter_in_hg": 30.06,
+  "flight_category": "VFR",
+  "raw_metar": "METAR KDVT 110053Z 27004KT 10SM CLR 24/07 A3006 RMK AO2 SLP162 T02390072"
+}
