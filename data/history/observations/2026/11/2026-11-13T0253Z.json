@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "aviationweather.gov/api/data/metar",
+  "station": "KDVT",
+  "fetched_at_utc": "2026-11-13T03:09:45Z",
+  "observed_at_utc": "2026-11-13T02:53:00Z",
+  "temperature_c": 20.6,
+  "dewpoint_c": 9.4,
+  "wind_speed_kt": 5,
+  "wind_direction_deg": 50,
+  "visibility_mi": 10.0,
+  "altimeter_in_hg": 29.88,
+  "flight_category": "VFR",
+  "raw_metar": "METAR KDVT 130253Z 05005KT 10SM FEW100 21/09 A2988 RMK AO2 SLP101 T02060094 55001"
+}
